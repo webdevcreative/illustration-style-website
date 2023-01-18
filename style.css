@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --primary-color: #f01965;
+  --secondary-color: #727cf0;
+  --dark-gray: #333;
+  --light-gray: #b4b4b4;
+  --purple-color: #c5c9f9;
+  --light-pink-color: #fee7ef;
+  --dark-pink-color: #f9a0bf;
+}
